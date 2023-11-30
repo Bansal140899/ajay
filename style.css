@@ -1,0 +1,22 @@
+.div{
+      background-color: var(--bs-gray-400);
+       width: 100%;
+}
+.ab{
+    background-color: var(--bs-gray-400)
+}
+.aa{
+    background-color: aliceblue;
+}
+.aaac{
+    background-color: aqua;
+    width: 100%;
+}
+.aad{
+    background-color: chocolate;
+    width: 100%;
+}
+.sss{
+    background-color: #666666;
+    width: 100%;
+}
